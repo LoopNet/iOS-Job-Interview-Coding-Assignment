@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Toyota Prius</string>
+		<key>URL</key>
+		<string>https://en.wikipedia.org/wiki/Toyota_Prius</string>
+		<key>Owner</key>
+		<string>Pete</string>
+		<key>Location</key>
+		<string>San Diego</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Honda Pilot</string>
+		<key>URL</key>
+		<string>https://en.wikipedia.org/wiki/Honda_Pilot</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Volvo S70</string>
+		<key>URL</key>
+		<string>https://en.wikipedia.org/wiki/Volvo_S70</string>
+		<key>Owner</key>
+		<string>Lori</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Honda Stream</string>
+		<key>URL</key>
+		<string>https://en.wikipedia.org/wiki/Honda_Stream</string>
+		<key>Location</key>
+		<string>Los Angeles</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Honda Civic</string>
+		<key>URL</key>
+		<string>https://en.wikipedia.org/wiki/Honda_Civic</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Peugot 205</string>
+		<key>URL</key>
+		<string>https://en.wikipedia.org/wiki/Peugeot_205</string>
+		<key>Location</key>
+		<string>Maastricht</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>DAF 55</string>
+		<key>URL</key>
+		<string>https://en.wikipedia.org/wiki/DAF_55</string>
+		<key>Owner</key>
+		<string>Kees</string>
+		<key>Location</key>
+		<string>Amsterdam</string>
+	</dict>
+</array>
+</plist>

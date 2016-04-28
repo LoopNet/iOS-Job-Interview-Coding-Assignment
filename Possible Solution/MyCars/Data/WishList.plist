@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Name</key>
+		<string>Batmobile</string>
+		<key>URL</key>
+		<string>https://en.wikipedia.org/wiki/Batmobile</string>
+		<key>Owner</key>
+		<string>Batman</string>
+		<key>Location</key>
+		<string>Gotham City</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>KITT</string>
+		<key>URL</key>
+		<string>https://en.wikipedia.org/wiki/KITT</string>
+		<key>Owner</key>
+		<string>Mitch Buchannon</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Ferrari Testarossa</string>
+		<key>URL</key>
+		<string>https://en.wikipedia.org/wiki/Ferrari_Testarossa</string>
+		<key>Owner</key>
+		<string>Don Johnson</string>
+		<key>Location</key>
+		<string>Miami</string>
+	</dict>
+</array>
+</plist>
